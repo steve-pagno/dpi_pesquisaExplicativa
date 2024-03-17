@@ -1,0 +1,21 @@
+p {
+    text-align: justify;
+}
+
+ul li {
+    text-align: justify;
+}
+
+.accordion-body {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(138, 138, 138);
+    transition: color 0.5s ease-in-out;
+}
+
+a:hover {
+    color: white;
+}
